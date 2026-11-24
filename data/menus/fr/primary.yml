@@ -30,9 +30,33 @@ items:
     new_tab: false
     children: []
     descendants_targets: []
+  - title: Affiches
+    slug: affiches
+    target: https://cassandre-gouvernet.institutd.osuny.site/projects_categories/affiches/
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Jeux
+    slug: jeux
+    target: https://cassandre-gouvernet.institutd.osuny.site/projects_categories/jeux/
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Pédagogie
+    slug: pedagogie
+    target: https://cassandre-gouvernet.institutd.osuny.site/projects_categories/pedagogie/
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
   descendants_targets:
   - "/toutes-les-creations/"
+  - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/affiches/
   - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/edition/
+  - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/jeux/
+  - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/pedagogie/
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Contact
