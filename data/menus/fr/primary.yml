@@ -14,6 +14,15 @@ items:
   kind: page
   new_tab: false
   children:
+  - title: Projets
+    slug: projets
+    target: "/projets/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
   - title: Édition
     slug: edition
     target: https://cassandre-gouvernet.institutd.osuny.site/projects_categories/edition/
@@ -22,6 +31,7 @@ items:
     children: []
     descendants_targets: []
   descendants_targets:
+  - "/projets/"
   - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/edition/
   path: "/projects"
   file: content/fr/projects/_index.html
