@@ -8,8 +8,8 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Projets
-  slug: projets
+- title: Toutes les créations
+  slug: toutes-les-creations
   target: "/toutes-les-creations/"
   kind: page
   new_tab: false
