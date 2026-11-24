@@ -13,8 +13,16 @@ items:
   target: "/projets/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Édition
+    slug: edition
+    target: https://cassandre-gouvernet.institutd.osuny.site/projects_categories/edition/
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/edition/
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Contact
