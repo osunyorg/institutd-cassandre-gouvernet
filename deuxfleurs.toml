@@ -18,3 +18,15 @@ Cache-Control = "max-age=31536000, no-transform, public"
 from = "/projets/index.html"
 to = "/toutes-les-creations/"
 
+[[redirects]]
+from = "/projets/2026-poster-doiseaux/index.html"
+to = "/toutes-les-creations/2026-poster-doiseaux/"
+
+[[redirects]]
+from = "/projets/2026-la-vie-des-phasmes/index.html"
+to = "/toutes-les-creations/2026-la-vie-des-phasmes/"
+
+[[redirects]]
+from = "/projets/2026-le-carnet-de-theodore/index.html"
+to = "/toutes-les-creations/2026-le-carnet-de-theodore/"
+
