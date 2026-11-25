@@ -18,7 +18,7 @@ items:
     file: content/fr/projects/_index.html
   - title: Édition
     slug: edition
-    target: https://cassandre-gouvernet.institutd.osuny.site/projects_categories/edition/
+    target: https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/edition/
     kind: url
     new_tab: false
     children: []
@@ -39,7 +39,7 @@ items:
     descendants_targets: []
   - title: Pédagogie
     slug: pedagogie
-    target: https://cassandre-gouvernet.institutd.osuny.site/projects_categories/pedagogie/
+    target: https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/pedagogie/
     kind: url
     new_tab: false
     children: []
@@ -47,9 +47,9 @@ items:
   descendants_targets:
   - "/toutes-les-creations/"
   - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/affiches/
-  - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/edition/
   - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/jeux/
-  - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/pedagogie/
+  - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/edition/
+  - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/pedagogie/
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Qui suis-je ?
