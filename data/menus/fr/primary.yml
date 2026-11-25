@@ -60,49 +60,53 @@ items:
   children:
   - title: Les crayons
     slug: les-crayons
-    target: https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/feutres/
+    target: "/toutes-les-creations/crayons/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: Le batik
     slug: le-batik
-    target: ''
+    target: "/toutes-les-creations/batik/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: La linogravure
     slug: la-linogravure
-    target: ''
+    target: "/toutes-les-creations/linogravure/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: La sérigraphie
     slug: la-serigraphie
-    target: ''
+    target: "/toutes-les-creations/serigraphie/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: La risographie
     slug: la-risographie
-    target: ''
+    target: "/toutes-les-creations/risographie/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: Le papier
     slug: le-papier
-    target: ''
+    target: "/toutes-les-creations/papier/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   descendants_targets:
-  - ''
-  - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/feutres/
+  - "/toutes-les-creations/batik/"
+  - "/toutes-les-creations/crayons/"
+  - "/toutes-les-creations/linogravure/"
+  - "/toutes-les-creations/papier/"
+  - "/toutes-les-creations/risographie/"
+  - "/toutes-les-creations/serigraphie/"
   path: "/pages/les-techniques"
   file: content/fr/pages/les-techniques/_index.html
 - title: Qui suis-je ?
