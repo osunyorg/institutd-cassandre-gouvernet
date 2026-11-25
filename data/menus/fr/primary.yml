@@ -18,38 +18,38 @@ items:
     file: content/fr/projects/_index.html
   - title: Édition
     slug: edition
-    target: https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/edition/
+    target: "/toutes-les-creations/edition/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: Affiches
     slug: affiches
-    target: https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/affiches/
+    target: "/toutes-les-creations/affiches/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: Jeux
     slug: jeux
-    target: https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/jeux/
+    target: "/toutes-les-creations/jeux/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: Pédagogie
     slug: pedagogie
-    target: https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/pedagogie/
+    target: "/toutes-les-creations/pedagogie/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   descendants_targets:
   - "/toutes-les-creations/"
-  - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/affiches/
-  - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/edition/
-  - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/jeux/
-  - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/pedagogie/
+  - "/toutes-les-creations/affiches/"
+  - "/toutes-les-creations/edition/"
+  - "/toutes-les-creations/jeux/"
+  - "/toutes-les-creations/pedagogie/"
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Les techniques
@@ -107,7 +107,7 @@ items:
   file: content/fr/pages/les-techniques/_index.html
 - title: Qui suis-je ?
   slug: qui-suis-je
-  target: "/personnes/cassandre-gouvernet"
+  target: "/personne/cassandre-gouvernet/"
   kind: url
   new_tab: false
   children: []
