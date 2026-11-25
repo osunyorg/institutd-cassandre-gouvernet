@@ -107,7 +107,7 @@ items:
   file: content/fr/pages/les-techniques/_index.html
 - title: Qui suis-je ?
   slug: qui-suis-je
-  target: https://cassandre-gouvernet.institutd.osuny.site/personnes/
+  target: "/personnes/cassandre-gouvernet"
   kind: url
   new_tab: false
   children: []
