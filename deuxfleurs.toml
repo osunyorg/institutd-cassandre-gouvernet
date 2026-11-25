@@ -15,8 +15,12 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/qui-suis-je/cassandre-gouvernet/index.html"
-to = "/personne/cassandre-gouvernet/"
+from = "/personne/cassandre-gouvernet/index.html"
+to = "/qui-suis-je/cassandre-gouvernet/"
+
+[[redirects]]
+from = "/personne/index.html"
+to = "/qui-suis-je/"
 
 [[redirects]]
 from = "/projets/index.html"
@@ -32,11 +36,11 @@ to = "/toutes-les-creations/2026-une-foret-en-libre-evolution/"
 
 [[redirects]]
 from = "/personnes/cassandre-gouvernet/index.html"
-to = "/personne/cassandre-gouvernet/"
+to = "/qui-suis-je/cassandre-gouvernet/"
 
 [[redirects]]
 from = "/personnes/index.html"
-to = "/personne/"
+to = "/qui-suis-je/"
 
 [[redirects]]
 from = "/projets/2026-poster-doiseaux/index.html"
@@ -45,10 +49,6 @@ to = "/toutes-les-creations/2026-poster-doiseaux/"
 [[redirects]]
 from = "/projets/2026-la-vie-des-phasmes/index.html"
 to = "/toutes-les-creations/2026-la-vie-des-phasmes/"
-
-[[redirects]]
-from = "/qui-suis-je/index.html"
-to = "/personne/"
 
 [[redirects]]
 from = "/projets/2026-le-carnet-de-theodore/index.html"
