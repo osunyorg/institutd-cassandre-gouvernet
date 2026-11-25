@@ -19,10 +19,6 @@ from = "/personne/cassandre-gouvernet/index.html"
 to = "/qui-suis-je/cassandre-gouvernet/"
 
 [[redirects]]
-from = "/personne/index.html"
-to = "/qui-suis-je/"
-
-[[redirects]]
 from = "/toutes-les-creations/feutres/index.html"
 to = "/toutes-les-creations/crayons/"
 
@@ -41,10 +37,6 @@ to = "/toutes-les-creations/2026-une-foret-en-libre-evolution/"
 [[redirects]]
 from = "/personnes/cassandre-gouvernet/index.html"
 to = "/qui-suis-je/cassandre-gouvernet/"
-
-[[redirects]]
-from = "/personnes/index.html"
-to = "/qui-suis-je/"
 
 [[redirects]]
 from = "/projets/2026-poster-doiseaux/index.html"
