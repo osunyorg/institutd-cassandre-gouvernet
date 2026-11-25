@@ -54,3 +54,7 @@ to = "/toutes-les-creations/2026-la-vie-des-phasmes/"
 from = "/projets/2026-le-carnet-de-theodore/index.html"
 to = "/toutes-les-creations/2026-le-carnet-de-theodore/"
 
+[[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/qui-suis-je/equipe-editoriale/"
+
