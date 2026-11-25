@@ -100,10 +100,18 @@ items:
     new_tab: false
     children: []
     descendants_targets: []
+  - title: Le numérique
+    slug: le-numerique
+    target: "/toutes-les-creations/numerique/"
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
   descendants_targets:
   - "/toutes-les-creations/batik/"
   - "/toutes-les-creations/crayons/"
   - "/toutes-les-creations/linogravure/"
+  - "/toutes-les-creations/numerique/"
   - "/toutes-les-creations/papier/"
   - "/toutes-les-creations/risographie/"
   - "/toutes-les-creations/serigraphie/"
