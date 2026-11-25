@@ -52,6 +52,15 @@ items:
   - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/pedagogie/
   path: "/projects"
   file: content/fr/projects/_index.html
+- title: Les techniques
+  slug: les-techniques
+  target: "/les-techniques/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/les-techniques"
+  file: content/fr/pages/les-techniques/_index.html
 - title: Qui suis-je ?
   slug: qui-suis-je
   target: https://cassandre-gouvernet.institutd.osuny.site/personnes/
