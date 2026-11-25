@@ -32,7 +32,7 @@ items:
     descendants_targets: []
   - title: Jeux
     slug: jeux
-    target: https://cassandre-gouvernet.institutd.osuny.site/projects_categories/jeux/
+    target: https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/jeux/
     kind: url
     new_tab: false
     children: []
@@ -47,8 +47,8 @@ items:
   descendants_targets:
   - "/toutes-les-creations/"
   - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/affiches/
-  - https://cassandre-gouvernet.institutd.osuny.site/projects_categories/jeux/
   - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/edition/
+  - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/jeux/
   - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/pedagogie/
   path: "/projects"
   file: content/fr/projects/_index.html
