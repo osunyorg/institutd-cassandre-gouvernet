@@ -59,8 +59,8 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Contact
-  slug: contact
+- title: Me contacter
+  slug: me-contacter
   target: "/contact/"
   kind: page
   new_tab: false
