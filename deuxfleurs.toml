@@ -23,6 +23,10 @@ from = "/personne/index.html"
 to = "/qui-suis-je/"
 
 [[redirects]]
+from = "/toutes-les-creations/feutres/index.html"
+to = "/toutes-les-creations/crayons/"
+
+[[redirects]]
 from = "/projets/index.html"
 to = "/toutes-les-creations/"
 
