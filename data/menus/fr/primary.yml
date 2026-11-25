@@ -57,8 +57,52 @@ items:
   target: "/les-techniques/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Les crayons
+    slug: les-crayons
+    target: https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/feutres/
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Le batik
+    slug: le-batik
+    target: ''
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: La linogravure
+    slug: la-linogravure
+    target: ''
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: La sérigraphie
+    slug: la-serigraphie
+    target: ''
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: La risographie
+    slug: la-risographie
+    target: ''
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Le papier
+    slug: le-papier
+    target: ''
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
+  - https://cassandre-gouvernet.institutd.osuny.site/toutes-les-creations/feutres/
   path: "/pages/les-techniques"
   file: content/fr/pages/les-techniques/_index.html
 - title: Qui suis-je ?
